@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixabay Images Gallery WordPress Plugin\n"
+"POT-Creation-Date: 2015-04-03 15:00+0100\n"
+"PO-Revision-Date: 2015-04-04 09:20+0100\n"
+"Last-Translator: Simon Steinberger <simon@pixabay.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_attr_e;esc_html__;esc_attr__\n"
+
+msgid "PREV"
+msgstr "ZURÜCK"
+
+msgid "NEXT"
+msgstr "WEITER"
+
+msgid "Pixabay Images Gallery"
+msgstr "Pixabay Bilder-Galerie"
+
+msgid "Pixabay Images Gallery Settings"
+msgstr "Pixabay Bilder-Galerie Einstellungen"
+
+msgid "Use this shortcode to show Pixabay images galleries on your page:"
+msgstr "Benutze diesen Shortcode, um Pixabay Bilder-Galerien auf Deiner Seite zu zeigen:"
+
+msgid "Select images by adding parameters:"
+msgstr "Wähle die Bilder durch hinzufügen von Parametern aus:"
+
+msgid "Available Parameters"
+msgstr "Verfügbare Parameter"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "A string to search for. Maximum length: 100 characters. Omit to select all images."
+msgstr "Suchstring - maximale Länge: 100 Zeichen. Lass dieses Feld leer, um alle Bilder zu selektieren."
+
+msgid "A Pixabay username to limit search results to."
+msgstr "Pixabay Benutzername, um die Suchergebnisse darauf einzugrenzen."
+
+msgid "The language to search in. Accepted values:"
+msgstr "Sprache in der gesucht wird. Gültige Werte:"
+
+msgid "A media type to search within. Accepted values:"
+msgstr "Bild-Typ Suchfilter. Gültige Werte:"
+
+msgid "A flag indicating that only images suitable for all ages should be returned. Accepted values:"
+msgstr "Nur Bilder anzeigen, die für alle Altersgruppen geeignet sind. Gültige Werte:"
+
+msgid "Select images that have received an <a href=\"https://pixabay.com/editors_choice/\">Editor's Choice</a> award. Accepted values:"
+msgstr "Nur Bilder zeigen, die mit einem <a href=\"https://pixabay.com/editors_choice/\">Editor's Choice</a> ausgezeichnet wurden. Gültige Werte:"
+
+msgid "How the results should be ordered. Accepted values:"
+msgstr "Sortierung der Suchergebnisse. Gültige Werte:"
+
+msgid "Returned image sets are paginated. Use this parameter to select the page number."
+msgstr "Die Suchergebnisse sind in Seiten aufgeteilt. Setze diesen Parameter, um eine bestimmte Seite auszuwählen."
+
+msgid "Maximum number of images per next/prev page. Values:"
+msgstr "Maximale Anzahl der Bilder pro Seite. Werte:"
+
+msgid "Maximum height of a row of images in pixels. Values:"
+msgstr "Maximale Höhe einer Bilder-Zeile in Pixel. Werte:"
+
+msgid "Maximum number of rows to display. Images exceeding this row are hidden."
+msgstr "Maximale Anzahl gezeigter Zeilen. Bilder in weiteren Zeilen werden versteckt."
+
+msgid "Hide <i>incomplete</i> last row of images."
+msgstr "<i>Unvollständige</i> letzte Bilder-Reihe verstecken."
+
+msgid "Link target for images, e.g. '_blank.'"
+msgstr "target Attribut für Bilder-Links, z.B. '_blank'."
+
+msgid "Position of pagination links and branding. Leave empty to hide both. Accepted values:"
+msgstr "Position für Navigtionselemente und Branding. Feld leer lassen, um beides zu verstecken. Gültige Werte:"
+
+msgid "Whether to show \"Powered by Pixabay\". Accepted values:"
+msgstr "Branding \"Powered by Pixabay\" zeigen. Gültige Werte:"
+
+msgid "Text for the \"previous\" link. Leave empty to hide pagination controls. Default: \"◄ PREV\""
+msgstr "Text für den Zurück-Link. Leer lassen, um Navigtionselemente zu verstecken. Standard: \"◄ ZURÜCK\""
+
+msgid "Text for the \"next\" link. Leave empty to hide pagination controls. Default: \"NEXT ►\""
+msgstr "Text für den Weiter-Link. Leer lassen, um Navigtionselemente zu verstecken. Standard: \"WEITER ►\""
+
+msgid "Pixabay API Key and Default Settings"
+msgstr "Pixabay API Key und Standard-Einstellungen"
+
+msgid "0 for unlimited rows"
+msgstr "0 für beliebig viele Reihen"
+
+msgid "hide"
+msgstr "nicht anzeigen"
+
+msgid "To enable the Pixabay Images Gallery, you must obtain an API key from <a href='https://pixabay.com/' target='_blank'>Pixabay</a> and enter it in the plugin's settings."
+msgstr "Um die Pixabay Bilder-Galerie zu aktivieren, muss ein API Key von <a href='https://pixabay.com/' target='_blank'>Pixabay</a> bezogen und in den Plugin-Einstellungen eingetragen werden."
+
+msgid "To enable this plugin, you must obtain an API key from Pixabay and enter it in the settings below. After <a href='https://pixabay.com/accounts/register/' target='_blank'>signing up for free on Pixbay</a>, you can <a href='https://pixabay.com/api/docs/' target='_blank'>find your API key here</a>."
+msgstr "Um dieses Plugin zu aktivieren, muss ein API Key von Pixabay bezogen und in den Einstellungen unten eingetragen werden. Nach der freien <a href='https://pixabay.com/accounts/register/' target='_blank'>Anmeldung auf Pixabay</a>, findet sich der <a href='https://pixabay.com/api/docs/' target='_blank'>API Key auf dieser Seite</a>."
